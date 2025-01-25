@@ -1,2 +1,2 @@
 # Problem-Solving-And-DSA-
-Learn DSA And Problem Solving Using Java 
+In this repository, I post Leetcode Question Solutions and implementations of various Data Structures and Algorithms
